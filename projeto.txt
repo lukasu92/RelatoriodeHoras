@@ -1,0 +1,16 @@
+Versionamento Git / commita no Github
+
+Frontend - Browser(Js,Css,Html)
+Libs: 
+Luxon - manusear data e hora
+Framework:
+React - ações do site
+Bootstrap - layout e interface
+
+Backend
+Selenium Webdriver
+Node js
+API - Node js (Api e o Export vão ter que estar na mesma lang)
+Conexão com um BD
+MySQL, NGinX, Docker
+Iniciar contador -> chamada a api -> ele vai criar um registro no banco
