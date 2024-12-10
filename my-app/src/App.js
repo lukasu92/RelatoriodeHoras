@@ -1,5 +1,6 @@
 import './App.css';
 import WorkTimeTable from "./components/WorkTimeTable";
+import Stopwatch from "./components/Stopwatch";
 
 function App() {
   return (
@@ -21,7 +22,9 @@ function App() {
           </button>
         </span>
       </form>
+      <Stopwatch />
       <WorkTimeTable />
+      
     </div>
   );
 }
